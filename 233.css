@@ -1,0 +1,14 @@
+body{
+    background-image: url(123.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.abc{
+    color:hotpink;
+}
+
+.abcye{
+    color:yellow;
+}
